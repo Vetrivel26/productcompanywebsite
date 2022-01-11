@@ -68,6 +68,7 @@ body {
   border-style: solid;
 }
 .homecontent {
+  background-color: grey;
   min-height: 500px;
   margin: 10px 10px 10px 10px;
 }
@@ -86,6 +87,7 @@ body {
 }
 
 .productcontent {
+  background-color: #16d1ae;
   min-height: 500px;
   margin: 10px 10px 10px 10px;
 }
